@@ -11,3 +11,7 @@
 ## git checkout -b develop origin/develop 切换到远程该分支
 
 ## git checkout -b feature develop 基于develop分支创建新功能分支
+
+## git checkout develop 切换到分支develop
+
+## git branch -d develop 删除develop分支
