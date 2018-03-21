@@ -1,6 +1,6 @@
 ## Git study
 
-## git branch -a 查看远程分支
+
 
 ## git branch 查看本地分支
 
